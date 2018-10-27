@@ -1,0 +1,14 @@
+## About
+
+This is a lightly customized version of ICU4c that uses a more smaller ICU data than original one (700kb vs 25mb aprox). The ICU data files used is already integrated, so you just need to compile it. 
+
+It uses customized ICU data files from ICU 62 from EasyRPG Project: https://easyrpg.org/downloads/icudata/
+
+You can find more information about ICU4c in HTML readme files and in the official page: http://site.icu-project.org/home
+
+## License
+This ICU4c Me-customized-lite is in fact ICU4c, and it is under the original license:  
+ *© 2016 and later: Unicode, Inc. and others. License terms of use: http://www.unicode.org/copyright.html
+© 1995-2016 International Business Machines Corporation and others*
+
+Se license files for more details.
